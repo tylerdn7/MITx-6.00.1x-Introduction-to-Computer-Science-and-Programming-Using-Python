@@ -1,2 +1,2 @@
-# p24
-Just a new free repository that I'll work later
+# MITx: 6.00.1x
+Introduction to Computer Science and Programming Using Python
